@@ -1,0 +1,26 @@
+.input-area {
+    padding: 4px;
+    height: auto;
+    width: 45ch;
+    font-size: 20px;
+    border: 2px solid #f2f2f2;
+    border-left: none;
+}
+.input-area:focus {
+    outline: none;
+}
+.search-icon {
+    padding: 3px 4px 4px;
+    border: 2px solid #f2f2f2;
+    font-size: 18px;
+    border-right: none;
+    border-radius: 2px;
+    color: gray;
+}
+.block {
+    height: auto;
+    background: #f2f2f2;
+}
+.result-label {
+    padding: 5px;
+}
